@@ -33,7 +33,7 @@ In this section, I will show you how to implement the features demonstrated in t
 
 **You can reason from here, it would take a long time to explain one by one.**
 
-**My recommendations and the resources I use: Unreal Engine 5 Documentation and Ryan Laley AI series are a great free resource on YouTube.**
+**My recommendations and the resources I use: Unreal Engine 5 Documentation, UE5 Forums and Ryan Laley AI series are a great free resource on YouTube.**
 
 
 
