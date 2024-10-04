@@ -2,7 +2,7 @@
 
 
 
-You can watch the video [here](https://www.youtube.com/watch?v=kT3aVJSVMnM).
+You can watch the video [here](https://www.youtube.com/watch?v=kT3aVJSVMnM). // Youtube 00:30 sec
 
 ### Overview
 
@@ -12,6 +12,7 @@ This video showcases the key features and gameplay mechanics of the UE5 Patrol P
 - **Dynamic Environment Interaction:** Watch the AI interact with various obstacles and challenges in real time.
 - **User-Friendly Interface:** Experience a clean and intuitive interface designed for seamless gameplay.
 - **Engaging Gameplay:** Discover how players can strategize and enjoy an immersive experience.
+- **Blueprint:** Blueprint: We can do great things with AI just by using Blueprint.
 
 Don't miss out on the opportunity to explore the future of game development with Unreal Engine 5. We hope you enjoy the presentation!
 
