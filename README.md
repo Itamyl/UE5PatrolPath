@@ -1,7 +1,6 @@
-# UE5PatrolPath
+# Unreal Engine AI Patrol Path
 
 
-## Demo Video
 
-[Video Dosyasını İndir ve İzle](UE5AIPatrolPath.mp4)
+You can watch the video [here](https://www.youtube.com/watch?v=kT3aVJSVMnM).
 
