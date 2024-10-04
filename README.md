@@ -15,3 +15,6 @@ This video showcases the key features and gameplay mechanics of the UE5 Patrol P
 
 Don't miss out on the opportunity to explore the future of game development with Unreal Engine 5. We hope you enjoy the presentation!
 
+## How to Implement
+
+In this section, I will show you how to implement the features demonstrated in the video. Follow the steps below for a clear guide:
