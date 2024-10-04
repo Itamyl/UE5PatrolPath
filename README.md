@@ -2,5 +2,5 @@
 
 
 
-You can watch the video [here](https://www.youtube.com/watch?v=kT3aVJSVMnM).
+[You can watch the video](https://www.youtube.com/watch?v=kT3aVJSVMnM).
 
